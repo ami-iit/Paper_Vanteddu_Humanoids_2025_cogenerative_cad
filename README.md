@@ -1,0 +1,1 @@
+# Paper_Vanteddu_Humanoids_2025_cogenerative_cad
