@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/d2610344-84ac-44a9-9cf5-cb8babf93c6b
 <div align="center">
   <a href="#Installation"><b>Installation</b></a> |
   <a href="https://arxiv.org/pdf/2509.14935"><b>Paper</b></a> |
-  <a href=""><b>Video</b></a>
+  <a href="https://youtu.be/2AHclnjdIwM"><b>Video</b></a>
 </div>
 
 ## Abstract
